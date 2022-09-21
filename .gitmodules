@@ -4,3 +4,7 @@
 [submodule "personalWebsite/themes/devise"]
 	path = personalWebsite/themes/devise
 	url = https://github.com/austingebauer/devise.git
+[submodule "personalWebsite/public"]
+	path = personalWebsite/public
+	url = https://github.com/yuan-yin-truly/yuan-yin-truly.github.io.git
+	branch = main
