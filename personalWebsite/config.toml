@@ -46,7 +46,4 @@ copyright = "&copy; Copyright 2022, Yuan Yin"
   [[params.social]]
     fa_icon = "fab fa-linkedin-in fa-1x"
     href = "https://www.linkedin.com/in/yuan-yin/"
-  [[params.social]]
-    fa_icon = "fab fa-instagram fa-1x"
-    href = "https://www.instagram.com/yuan_yin_truly/"
 
