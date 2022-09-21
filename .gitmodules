@@ -1,0 +1,6 @@
+[submodule "personalWebsite/themes/paper"]
+	path = personalWebsite/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "personalWebsite/themes/devise"]
+	path = personalWebsite/themes/devise
+	url = https://github.com/austingebauer/devise.git
